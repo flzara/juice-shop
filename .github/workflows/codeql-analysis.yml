@@ -3,8 +3,12 @@ name: "Code Scanning"
 on:
   push:
   pull_request:
-  schedule:
-    - cron: '0 18 * * 6'
+  workflow_dispatch:
+    inputs:
+      test:
+        description: 'test attribute'
+        required: false
+        default: 'not_used'
 
 jobs:
   CodeQL-Build:

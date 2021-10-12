@@ -235,7 +235,7 @@ where this project was mentioned or used!
   [OWASP Projects Summit - Winter 2020](https://owasp.org/www-staff/projects/202002-Projects-Summit-Q1.html)
   with Björn Kimminich, Jannik Hollenbach and Marc Rüttler collaborating
   on
-  [prepared working packages](https://github.com/bkimminich/juice-shop/milestone/10)
+  [prepared working packages](https://github.com/juice-shop/juice-shop/milestone/10)
   and
   [the `v10.0.0` release](https://owasp.org/2020/03/17/juice-shop-v10.html),
   27.-29.02.2020
@@ -257,6 +257,10 @@ where this project was mentioned or used!
 ### [Google Summer of Code](http://owasp.org/gsoc)
 
 * Student project from
+  [Google Summer of Code 2021](https://summerofcode.withgoogle.com/archive/2021/projects)
+  * [Extending the features of the vulnerable code snippets](https://summerofcode.withgoogle.com/archive/2021/projects/5180407718346752P)
+    by Ayas Behera (mentored by Jannik Hollenbach and Björn Kimminich)
+* Student project from
   [Google Summer of Code 2020](https://summerofcode.withgoogle.com/archive/2020/projects)
   * [Juice-Shop ChatBot and general fixes](https://summerofcode.withgoogle.com/archive/2020/projects/5660020047347712/)
     by Mohit Sharma (mentored by Jannik Hollenbach, Björn Kimminich and
@@ -277,6 +281,11 @@ where this project was mentioned or used!
 
 #### 2021
 
+* [OWASP Juice Shop Flagship Project](https://owasp20thanniversaryevent20.sched.com/event/m1uL/owasp-juice-shop-flagship-project) by Björn Kimminich, [OWASP 20th Anniversary Event](https://20thanniversary.owasp.org/), 24.09.2021 ([YouTube]() :godmode:)
+* [SDLC con OWASP y laboratorio con OWASP Juice Shop](https://www.meetup.com/de-DE/OWASP-Uruguay-Chapter/events/279827017/)
+  (:uruguay:) with Martín Marsicano and Pablo Alzuri,
+  [OWASP Uruguay Chapter](https://owasp.org/www-chapter-uruguay/),
+  19.08.2021 [YouTube](https://youtu.be/OAE1EnBNMlc?t=2722) :godmode:
 * [Talking Juice Shop and Maintaining a Flagship OWASP Project with Björn Kimminich](https://www.meetup.com/OWASP-Northern-Virginia-Chapter/events/278751084/),
   [OWASP Northern Virginia Chapter](https://owasp.org/www-chapter-northern-virginia/),
   07.07.2021 ([YouTube](https://youtu.be/uejiQ9VvFu4))
